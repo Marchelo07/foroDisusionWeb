@@ -1,0 +1,12 @@
+
+/* @import "@coreui/coreui/scss/coreui"; */
+@import 'bootstrap/dist/css/bootstrap.min.css';
+/* @import '~font-awesome/css/font-awesome.min.css'; */
+/* @import "~@coreui/coreui/dist/css/coreui.css"; */
+
+.MuiInputLabel-outlined.MuiInputLabel-shrink {
+    transform: translate(14px, -10px) scale(0.75) !important;
+    background-color: white !important;   
+    padding-left: 2% !important;
+    padding-right: 2% !important;
+  }
